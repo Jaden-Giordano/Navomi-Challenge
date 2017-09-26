@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Navomi Challenge</title>
+
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/kube/6.5.2/css/kube.min.css" />
+	<link rel="stylesheet" type="text/css" href="main.css" />
+
+	<script src="https://use.fontawesome.com/e41fded392.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<div class="chatbox">
+			<div id="title">
+				<h3 style="float: left;">SomethingBot</h3>
+				<div style="float: right;">
+					<span>Login with </span>
+					<a href="" id="facebook-login" class="login"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+					<a href="" id="google-login" class="login"><i class="fa fa-google-plus-official" aria-hidden="true"></i></a>
+					<a href="" id="twitter-login" class="login"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+				</div>
+			</div>
+			<div style="clear: both;">
+			</div>
+			<div id="responses">
+				<ul id="chat-items">
+					<li>
+						<i class="fa fa-grav" style="font-size: 1.5em;" aria-hidden="true"></i><span style="color: blue;">Someguy: </span><span>Hey, go ahead and just talk to me and I'll give you my opinion. Feel free to login using facebook, twitter, or google.</span>
+					</li>
+				</ul>
+			</div>
+			<div id="user-input">
+				<form id="text-form">
+					<input id="content" style="width: 90% margin: 0 auto;" />
+					<button type="submit" style="display: none;">Submit</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<script src="https://www.gstatic.com/firebasejs/4.4.0/firebase.js"></script>
+	<script>
+		// Initialize Firebase
+		var config = {
+			apiKey: "AIzaSyDuYV9Uq9GECxT7bQ_ONpOz6DjdGdmTA2E",
+			authDomain: "navomi-challenge.firebaseapp.com",
+			databaseURL: "https://navomi-challenge.firebaseio.com",
+			projectId: "navomi-challenge",
+			storageBucket: "navomi-challenge.appspot.com",
+			messagingSenderId: "245665419645"
+		};
+		firebase.initializeApp(config);
+	</script>
+	<script src="app.js"></script>
+</body>
+
+</html>

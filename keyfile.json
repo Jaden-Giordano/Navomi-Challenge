@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "navomi-challenge-181018",
+  "private_key_id": "2c1a79d750878f181b56f758e021e846123017e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxOKR6wzzsUJGv\nWxViq26JK2r8sIREKDMV6vagiCiJRqz+fPCH1aIrqF9MwvsQsu04TmUiqOx+8fp3\n2s/Sdl/2NMOGfvOeIzuZRFyK4BY+umH3nWCzaMGP5NPp02XVOyfEm1pwy8Ar46tD\n8IyTZjM3Zo/6owZ9iOub35+kbs7qqZbrPboRJ8cqw3mVWC5K1tccb6ciq6xBcM4o\nCXto8j5xGyVqz6rcG8bGR0lyX+8oZBUd90XWfJKe5V6ulqFIZ5OgrmEHx0A3mXIW\nzeBk04F/pvxS+G6WGyqiJuzf+pDAEuecsF91DfTVoHro1YxE+25xxTyi0lcYpPS5\nzhK2MRKhAgMBAAECggEAAPkC/cRWUGQ7+81zzg4Lk2UUUgp8fAdzSf9MsafJqYDk\ngxmSXuZ950AwygyxwNSAlOa+QJz9flALnEPh0IwzMuMKKzHwGknjzPpZHoSEGWhK\nZcfnT4NyI4fBn4Fi6CiU1ha1syk1IZs0azvV47BjtH3uPqA4MVvH55voELNF1LfN\npCjzR7o9cqvnGxkuQKBbuxcyNb3oSN9YoqfPGN4pxXRCQrxrtHiqCNq2fW0X12nh\nYoGG0lVsd6Hn5Z9zSXlMitHSZD4W5L5oidjEQnLJ5NBZQDwiK9BnP2nJYfhysmw1\n/ys9bTMPCrr2Ynjty0ZQtbcGhk9uUYixbuqnvP2ySQKBgQDrAJh4CnsyQv6rfbSZ\nalvPYz6qdzUHSyFSd+Q+XOi4ZawCN0qEvF5O5GVaM8NI3UuGOgAJ7GZvEGa2e39z\nUHx7mwc2M0iQYmKAl45BbwuSUV5fJUnpXcGa+DbdEDkgu/AC14v3zdYJGvys4Hus\nSDuCU90lNNWBq+Pg30ion9n/OQKBgQDBDl9RYPSD40dZwqAosHtAGghqGzQzi5zI\n4BNilNJ585I2kZnFQ1QiYK7zvfHkLPzi81R/to1AQEUMd8Iq2XZOaVOhhHkiPJwR\nqus11UajV76tqm2Oif4f6UDlBCfNKUxvuUKzyaCLiNGRSf0bTEq9+9/qHfvpaB63\nq9e2MW5GqQKBgQDfd4GFJPJhqTNi//ZsrKcBXu6ISzMx7E+TjE6OvurN7mDS+qDx\n9+32N1npnK9m6oiW6zB+Pz5o/r+tZ2Ka1T6Ki7Ef6URniCcDARtVPbNTP+ztrRfL\nwkwIgWAqdvLcHdrt2OpQinutzOvZuN3hxg5QsE7qwoME+9+GRs1hDCDQgQKBgDt4\nDeynjSrDbEs+JM/j7VOFsWneD2qBaz6Fp/MKHPvsB/I/T7rwTo54cewrasP7B7tx\ncWoV9dUA90Qr7+f7LPJih5yNjjL5sKnQmLvwgt32PYqJoU3zPBDgbVkeupP8UMtp\nqh5v0cCp2MSEoi8yhSOY3xTjP6JarHuvt7cr6uhhAoGAaLkOkGcqUcDfbUOk2G4b\n02jiFLEqr/85mZrNM2KSXRngVduyZuO4yrydduxO+/VXg8JwGdIgkmskBqGeAnlq\n7bcaUWvg43F6rUUIDKOjk9WhzC61HSc4M44YcamLV/+x/NcEOVdEjUQFUCjkMVd7\n90Xao54tFezLea16/QcSEN0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "language-service@navomi-challenge-181018.iam.gserviceaccount.com",
+  "client_id": "108914736048480455805",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/language-service%40navomi-challenge-181018.iam.gserviceaccount.com"
+}
